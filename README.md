@@ -135,4 +135,4 @@ This repository contains the analysis scripts required to reproduce the computat
 
 If you use or adapt code from this repository, please cite:
 
-> Kusi-Yeboah, P. (2026). *[INSERT FINAL DISSERTATION TITLE]*. Master's dissertation, King's College London.
+> Kusi-Yeboah, P. (2026). Investigating Epileptic Activity Through Machine Learning and Multimodal EEG-fMRI Analysis . Master's dissertation, King's College London.
